@@ -1,0 +1,6 @@
+read_HOAP_sensors - File that read all HOAP sensors
+
+Installation from CMake (Multiplatform)
+---------------------------------------
+
+Navigate to the project. An out-of-source build is recommended however not mandatory. To do this, create and enter a 'build' directory. 'cmake ..' should create a 'Makefile' or '.sln' there. A 'make' or 'build' should make output 'read_HOAP_sensors' appear in ./out/ correspondent directory.
